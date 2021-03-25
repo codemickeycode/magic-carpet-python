@@ -1,2 +1,7 @@
 .ipynb_checkpoints
 .python-version
+custom.css
+header.html
+footer.html
+*.html
+*.pdf
