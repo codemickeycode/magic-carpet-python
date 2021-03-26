@@ -1,5 +1,5 @@
 # magic-carpet-python
-Handouts for "A Magic Carpet Ride to Python" workshop at WitCon 2021
+Jupyter notebook handouts for "A Magic Carpet Ride to Python" workshop at WitCon 2021
 
 ## Links
 - [Slides pdf](https://bit.ly/3fcMSG4)
